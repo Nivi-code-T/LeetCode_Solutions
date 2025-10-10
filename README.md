@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nivi-code-T/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Nivi-code-T/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nivi-code-T/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
